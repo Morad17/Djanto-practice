@@ -26,7 +26,7 @@ SECRET_KEY = 'qrb!i8++rck%+q6wo(^nnz%l$y%v9tc1x!+of-my6e(j@l@qve'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://djanto-todo-app.heroku.com']
 
 
 # Application definition
